@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 **VerySecretXD/VerySecretXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: no
 - 😄 Pronouns: En En En 38
 - ⚡ Fun fact: lol not fun facts / nie ma faktów
--->
+
